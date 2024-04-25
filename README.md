@@ -1,4 +1,7 @@
 # ETS2 Vehicle Detection
+
+### This project is on hold at the moment. ETA: Q4 2024 - Q1 2025
+
 In progress:
 - Get full dataset | Done
 - Train models | 1/7 (Test Model)
