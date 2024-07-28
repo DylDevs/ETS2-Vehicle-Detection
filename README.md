@@ -1,5 +1,6 @@
 # ETS2 Vehicle Detection
 
-### ETA: Aug 2024
+### ETA: Q1 August 
 
-This project is currently empty. Once the models are trained an ready, they will be uploaded here.
+## Update
+The annotation process has begun! we should have a fully trained demo model in the next week.
